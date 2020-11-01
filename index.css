@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    box-sizing: border-box;
+};
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.container-fluid{
+    background: #2626e6;
+}
+.container{
+    background: #2626e6;
+    color: #ffffff;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+
+.card form {
+    font-family: 'Poppins', 'sans-serif';
+}
+
+.card form input{
+    border-radius: 3px;
+    border: none;
+    background-color: #eeeeee;
+    padding: 0.5rem 0.5rem;
+}
+
+.card .card-body{
+    display: none;
+}
+.card .list{
+    font-family: 'Poppins', 'sans-serif';
+    border-bottom: none;
+}
+
+.card form button{
+    background: #2626e6;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+    color: #ffffff;
+}
+
+.card form button:focus{
+  outline: none;
+}
+
+.card form button:hover{
+    filter: brightness(200%);
+}
+
+.card form #delete:hover{
+    filter: brightness(200%);
+}
+
+.list-group input[type="checkbox"]:checked + label{
+    text-decoration: line-through;
+    color: red;
+}
+.checkbox{
+    cursor: pointer;
+}
+.card form input:focus{
+    border-color:  #eeeeee;
+    outline: none;
+}
+
+.text{
+    color: rgb(7, 122, 7);
+}
