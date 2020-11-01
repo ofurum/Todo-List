@@ -4,7 +4,7 @@
 
 # Setup
 * Open your terminal
-* Run a git clone [https://github.com/ofurum/Todo-List.git]
+* Run a git clone [[https://github.com/ofurum/Todo-List.git]]
 * Open the todo-List folder on your local machine
 * Open the index.html page your browser
 * That's all 👍
