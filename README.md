@@ -13,8 +13,8 @@
  * There is a delete button that makes a user clear whatever event that has been completed on the user list
  * There is a checkput input that makes a user strike the event the user is about to complete
  
-#Technologieas used
+# Technologieas used
 * HTML
-CSS
-Vanilla JavaScript
-bootstrap
+* CSS
+* Vanilla JavaScript
+* bootstrap
