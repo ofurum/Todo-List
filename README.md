@@ -8,10 +8,11 @@
 * Open the todo-List folder on your local machine
 * Open the index.html page your browser
 * That's all 👍
-* Instructions
+
+# Instructions
 * Input whatever event a user is planning
- * There is a delete button that makes a user clear whatever event that has been completed on the user list
- * There is a checkput input that makes a user strike the event the user is about to complete
+* There is a delete button that makes a user clear whatever event that has been completed on the user list
+* There is a checkput input that makes a user strike the event the user is about to complete
  
 # Technologieas used
 * HTML
