@@ -57,6 +57,9 @@ body{
     filter: brightness(200%);
 }
 
+.date {
+    font-family: 'Poppins', 'sans-serif';
+}
 .list-group input[type="checkbox"]:checked + label{
     text-decoration: line-through;
     color: red;
